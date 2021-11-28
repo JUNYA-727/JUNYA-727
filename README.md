@@ -4,7 +4,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JUNYA-727&theme=monokai)
 
 ## 主な開発内容
-- 時系列分析でTensorflow､Lightgbm+Optuna等を用いてビットコイン､FX､株の自動売買を行うためのアルゴリズムを開発しています｡
+- 時系列分析でTensorflow､Lightgbm+Optuna等を用いてビットコイン､株の自動売買のアルゴリズムを開発しています｡
 
 - 画像や動画データに対して､深層学習,転移学習を用いて精度向上に向けて開発しています｡
 
