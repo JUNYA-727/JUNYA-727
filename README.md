@@ -8,6 +8,7 @@
 
 - 画像や動画データに対して､深層学習,転移学習を用いて精度向上に向けて開発しています｡
 
+- 開発したプログラムの動作は[Youtube](https://www.youtube.com/watch?v=iYd_ez8LPas&ab_channel=KuramochiJunya)でも確認できるようにしています.
 
 ## 得意とする技術
 - Python
