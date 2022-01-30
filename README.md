@@ -28,4 +28,7 @@
 - 深層強化学習DQN(Deep Q-Network)
 - 要人発言を自然言語処理で落とし込み､自動売買に活用
 
+## 経歴
+- SIGNATEにおいて､物体検出コンペで入賞(10位)
+
 # Thank you for watching my github🙇‍♂️
