@@ -24,9 +24,10 @@
 
 
 ## これから開発したい内容
-- YOLO/Mask R-CNNを用いた物体検出→YOLOv5を用いてコンペの参加済み(2021/12月)､Mask R-CNNを用いてコンクリートのひび割れ検出プログラム作成済み(2022/1月)
+- Javascript(React)
 - 深層強化学習DQN(Deep Q-Network)
 - 要人発言を自然言語処理で落とし込み､自動売買に活用
+- フロントエンド(React)､バックエンド(Django or Flask)でwebアプリ開発
 
 ## 経歴
 - SIGNATEにおいて､物体検出コンペで入賞(10位)
