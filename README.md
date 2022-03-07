@@ -31,5 +31,6 @@
 
 ## 経歴
 - SIGNATEにおいて､物体検出コンペで入賞(10位)
+- 楽天グループ株式会社にて長期エンジニアインターン
 
 # Thank you for watching my github🙇‍♂️
