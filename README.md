@@ -4,9 +4,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JUNYA-727&theme=monokai)
 
 ## 主な開発内容
-- 時系列分析でTensorflow､Lightgbm+Optuna等を用いてビットコイン､株の自動売買のアルゴリズムを開発しています｡
+- 時系列分析でTensorflow､Lightgbm+Optunaを用いてビットコイン､株の自動売買のアルゴリズムを開発しています｡
 
-- 画像や動画データに対して､深層学習,転移学習を用いて精度向上に向けて開発しています｡
+- 画像や動画データに対して､深層学習,転移学習を用いて精度向上に向けて開発しています。
+
+- React.js,Next.jsを使用してフロントエンド開発 
 
 ## 得意とする技術･フレームワーク
 - Python
@@ -17,15 +19,18 @@
   - EfficientDet
   - Mask R-CNN
   - YOLO
+  
+- Javascript
+  - React.js
+  - Next.js
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNYA-727&show_icons=true&theme=monokai)
 
 
 ## これから開発したい内容
-- Javascript(React)
-- 深層強化学習DQN(Deep Q-Network)
-- 要人発言を自然言語処理で落とし込み､自動売買に活用
-- フロントエンド(React)+バックエンド(Flask)でherokuにデプロイしてサイトを作る
+- バックエンド開発(Django,Flask)
+- AWS,GCPを利用してwebアプリケーション開発
+- 深層強化学習(Deep Q-Network)
 
 ## 経歴
 - SIGNATEにおいて､物体検出コンペで入賞(10位)
