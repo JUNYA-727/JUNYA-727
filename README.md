@@ -1,6 +1,6 @@
 # Junya Kuramochi　![](https://komarev.com/ghpvc/?username=JUNYA-727)
 
-![](https://grass-graph.moshimo.works/images/.png)
+![](https://grass-graph.moshimo.works/images/JUNYA-727.png)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JUNYA-727&theme=monokai)
 
 ## 主な開発内容
