@@ -24,6 +24,7 @@
   - React.js
   - Next.js
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNYA-727&show_icons=true&theme=monokai)
 
 
