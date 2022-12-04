@@ -3,19 +3,20 @@
 ![](https://grass-graph.moshimo.works/images/JUNYA-727.png)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JUNYA-727&theme=monokai)
 
-## 主な開発内容
-- 時系列分析でTensorflow､Lightgbm+Optunaを用いてビットコイン､株の自動売買のアルゴリズムを開発しています｡
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNYA-727&show_icons=true&theme=monokai)
+## Main Development
+- Creating an automated bitcoin trading model
 
-- 画像や動画データに対して､深層学習,転移学習を用いて精度向上に向けて開発しています。
+- Creating image recognition models through deep learning and transition learning
 
-- React.js,Next.jsを使用してフロントエンド開発 
+- Front-end development using Next.js,React
 
-## 得意とする技術･フレームワーク
+## Skill
 - Python
-  - Tensorflow/Keras
+  - Tensorflow / Keras
   - Lightgbm
   - OpenCV
-  - Django
+  - Django / Flask
   - EfficientDet
   - Mask R-CNN
   - YOLO
@@ -25,16 +26,16 @@
   - Next.js
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNYA-727&show_icons=true&theme=monokai)
 
 
-## これから開発したい内容
-- バックエンド開発(Django,Flask)
-- AWS,GCPを利用してwebアプリケーション開発
-- 深層強化学習(Deep Q-Network)
 
-## 経歴
-- SIGNATEにおいて､物体検出コンペで入賞(10位)
+## Skills I plan to learn
+- redux
+- Cloud technology (aws,azure,gcp)
+- Deep Q-Network
+
+## Career
+- SIGNATEにおいて､物体検出コンペで入賞
 - 楽天グループ株式会社にて長期エンジニアインターン
 
 # Thank you for watching my github🙇‍♂️
