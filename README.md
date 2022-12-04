@@ -38,4 +38,7 @@
 - SIGNATEにおいて､物体検出コンペで入賞
 - 楽天グループ株式会社にて長期エンジニアインターン
 
-# Thank you for watching my github🙇‍♂️
+
+##
+
+## Thank you for watching my github🙇‍♂️
