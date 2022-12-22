@@ -37,7 +37,7 @@
 ## Career
 - SIGNATEにおいて､物体検出コンペで入賞
 - 楽天グループ株式会社にて長期エンジニアインターン
-- Azure Fundamentals(AZ-900) 
+- Azure Fundamentals (AZ-900) 
 
 
 ##
